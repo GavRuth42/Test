@@ -4,6 +4,8 @@ if fuck == "garrett" :
      print("Your gay")
 elif fuck == "gavin" :
      print ("your cool")    
+elif fuck == "abbi":
+     print == ("Your hot")
 else:
      print ("not a name")
-     #please
+     
