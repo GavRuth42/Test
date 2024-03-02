@@ -1,0 +1,9 @@
+fuck = input ("whats your name? ")
+             
+if fuck == "garrett" :
+     print("Your gay")
+elif fuck == "gavin" :
+     print ("your cool")    
+else:
+     print ("not a name")
+     #please
