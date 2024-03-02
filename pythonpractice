@@ -5,7 +5,7 @@ if fuck == "garrett" :
 elif fuck == "gavin" :
      print ("your cool")    
 elif fuck == "abbi":
-     print == ("Your hot")
+     print ("Your hot")
 else:
      print ("not a name")
      
