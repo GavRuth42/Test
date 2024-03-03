@@ -1,2 +1,3 @@
-x = (int(input )"please enter a #")
+print ("Please Enter a #")
+x = (int(input))
 print (x * x)
