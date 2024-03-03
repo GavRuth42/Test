@@ -1,3 +1,3 @@
 print ("Please Enter a #")
-x = (int(input))
+x = int;input 
 print (x * x)
