@@ -1,2 +1,2 @@
-for x in range(15):
-    print ("Garrett sucks dick")
+x = (int(input "please enter a #"))
+print (x * x)
