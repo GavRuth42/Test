@@ -1,8 +1,8 @@
 import random
 
 # Lists of first and last names
-first_names = ["Alice", "Bob", "Charlie", "David", "Eve", "Frank"]
-last_names = ["Smith", "Johnson", "Williams", "Jones", "Brown", "Davis"]
+first_names = ["Chucklefuck", "Dogtail", "MeatPants", "Bitchboy", "Shitbag", "Cleetus"]
+last_names = ["Mckrinkleberry", "Biggums", "Dingleberry", "Jones", "McBrownpants", ""]
 
 def generate_random_name():
     """Generate a random name."""
@@ -12,7 +12,7 @@ def generate_random_name():
 
 def main():
     """Main function to generate and print random names."""
-    for _ in range(5):  # Generate and print 5 random names
+    for _ in range(1):  # Generate and print 5 random names
         random_name = generate_random_name()
         print(random_name)
 
