@@ -1,7 +1,7 @@
 import random
 
 # Lists of first and last names
-first_names = ["Chucklefuck", "Dogtail", "MeatPants", "Bitchboy", "Shitbag", "Cleetus","Fuckface","Todd Howard","Kevin","Butterball", "Dickcheese" ]
+first_names = ["Chucklefuck", "Dogtail", "MeatPants", "Bitchboy", "Shitbag", "Cleetus","Fuckface","Todd Howard","Kevin","Butterball", "Dickcheese", "Chairboy" ]
 last_names = ["Mckrinkleberry", "Biggums", "Dingleberry", "Jones", "McBrownpants", "Wankenshire","the 25th","Of Mogadishu","Mcsnorty","The Sex Defender", "Sourdough"]
 
 def generate_random_name():
