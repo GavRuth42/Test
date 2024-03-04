@@ -3,7 +3,7 @@ import random
 # Lists of first and last names
 first_names = ["Bodatious","Busty","Beautiful","Great","Exeptional","Sir","Mrs.","Mr.","Frisky","Fine","Glowing","Disabled","Radiant","Unliving","Spirit","Holy","The Grand"]
 last_names = ["Moonchild","Skychild","Moonangel","Skyhawk","Runswater","Jahlomite","Jaahsslutte","Bloomingflower","Skyborn","MoonFather","Moonmother","Moonpartner","Servent"]
-
+#note
 def generate_random_name():
     """Generate a random name."""
     random_first_name = random.choice(first_names)
